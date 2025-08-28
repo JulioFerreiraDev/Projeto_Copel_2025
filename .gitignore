@@ -1,0 +1,19 @@
+# Evitar arquivos gerados do TIA/WinCC e toolbox
+106226404_LHmiToolbox_WinCC_Comfort_Adv_V19/
+IM/SearchIndex/
+IM/HMI/**/Saved/
+IM/HMI/**/Generates/
+Logs/
+XRef/
+System/PEData.*
+System/~PEData.*
+*.plf
+*.idx
+*.rtid
+*.rdf
+*.cnk
+*.pwx
+*.srt
+*.zip
+~$*
+Thumbs.db
